@@ -4,7 +4,7 @@ My-iPython-Notebooks
 A place for my iPython notebooks.
 
 
-1. Simulation of the effects of brain volume control strategies
+# Simulation of the effects of brain volume control strategies
 
 References:
 - http://siphonophore.org/corpuscallosum/
