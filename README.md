@@ -1,5 +1,5 @@
-My-iPython-Notebooks
-====================
+My Corpus Callosum Notebooks
+============================
 
 A place for my iPython notebooks.
 
